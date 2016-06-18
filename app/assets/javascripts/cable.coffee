@@ -3,7 +3,7 @@
 #
 # Turn on the cable connection by removing the comments after the require statements (and ensure it's also on in config/routes.rb).
 #
-#= require action_cable
+#= require vendor/actioncable
 #= require_self
 #= require_tree ./channels
 #
